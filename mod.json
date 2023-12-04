@@ -1,0 +1,15 @@
+{
+    "repo_url": "https://github.com/Knutschbert/BigNumbers",
+    "name": "BigNumbers",
+    "description": "Adds detailed damage breakdown\nto the default Class Selection UI",
+    "mod_type": "Shared",
+    "authors": [ "Knutschbert" ],
+    "dependencies": [
+      {
+        "repo_url": "https://github.com/Chiv2-Community/ArgonSDK-Mods",
+        "version": ">=0.0.1"
+      }
+    ],
+    "ag_mod": true,
+    "tags": [ "Mutator" ]
+  }
